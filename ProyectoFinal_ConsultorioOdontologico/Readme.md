@@ -78,6 +78,3 @@ La Cola recibe a todos los clientes de la agenda y los atiende en el mismo orden
 - Ciclos.
 - Ordenamiento.
 - Filtrado de datos.
-
-## ¿Cómo ejecutarlo?
-Abra `03_programa_integrado.py` en Visual Studio Code y ejecútelo.
